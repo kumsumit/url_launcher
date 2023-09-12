@@ -1,0 +1,61 @@
+name: url_launcher
+publish_to: none
+description: Flutter plugin for launching a URL. Supports
+  web, phone, SMS, and email schemes.
+repository: https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher
+issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+url_launcher%22
+version: 6.1.14
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        default_package: url_launcher_android
+      ios:
+        default_package: url_launcher_ios
+      linux:
+        default_package: url_launcher_linux
+      macos:
+        default_package: url_launcher_macos
+      web:
+        default_package: url_launcher_web
+      windows:
+        default_package: url_launcher_windows
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher_android: 
+    git: https://github.com/kumsumit/url_launcher_android.git
+  url_launcher_ios: 
+    git: https://github.com/kumsumit/url_launcher_ios.git
+  # Allow either the pure-native or Dart/native hybrid versions of the desktop
+  # implementations, as both are compatible.
+  url_launcher_linux:
+    git: https://github.com/kumsumit/url_launcher_linux.git
+  url_launcher_macos: 
+    git: https://github.com/kumsumit/url_launcher_macos.git
+  url_launcher_platform_interface: 
+    git: https://github.com/kumsumit/url_launcher_platform_interface.git
+  url_launcher_web: 
+    git: https://github.com/kumsumit/url_launcher_web.git
+  url_launcher_windows:
+    git: https://github.com/kumsumit/url_launcher_windows.git
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.2
+  plugin_platform_interface: 
+    git: https://github.com/kumsumit/plugin_platform_interface.git
+  test: ^1.16.3
+
+topics:
+  - links
+  - os-integration
+  - url-launcher
+  - urls
