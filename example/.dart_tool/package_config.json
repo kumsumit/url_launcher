@@ -75,7 +75,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.6.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.6.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -261,7 +261,7 @@
     },
     {
       "name": "mockito",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.2",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -285,9 +285,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "pool",
@@ -401,49 +401,49 @@
       "name": "url_launcher",
       "rootUri": "../../",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_android-6.1.0",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_android-0a39fe254e9955a08cb94507f5545d74ae3f1b51/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.5",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_ios-f87fbb62b67ab95c329ed9b18f199a618ae8193b/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_linux-13dfea262ea827b73e1492022da6e3e7fa4f68d7/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.7",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_macos-c0db03ee0d15fd8c1ac91d8ce2e319c64f27a9b5/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.1.5",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_platform_interface-ea6e4db740d406561dd53b5acf7181406572a35d/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_web",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.20",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_web-3328ddc72fb3680014e3737239f9d1b9e8d67b76/",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_windows",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_windows-3.0.8",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_windows-083d2dbce9481a353db8e9db9ec14594c09b8493/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "vector_math",
@@ -491,10 +491,10 @@
       "name": "url_launcher_example",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-12T04:39:38.542800Z",
+  "generated": "2023-09-23T05:55:44.655274Z",
   "generator": "pub",
-  "generatorVersion": "3.1.1"
+  "generatorVersion": "3.1.2"
 }

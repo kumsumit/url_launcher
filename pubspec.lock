@@ -61,10 +61,10 @@ packages:
     dependency: transitive
     description:
       name: built_value
-      sha256: ff627b645b28fb8bdb69e645f910c2458fd6b65f6585c3a53e0626024897dedf
+      sha256: a8de5955205b4d1dbbbc267daddf2178bd737e4bab8987c04a500478c9651e74
       url: "https://pub.dev"
     source: hosted
-    version: "8.6.2"
+    version: "8.6.3"
   characters:
     dependency: transitive
     description:
@@ -293,7 +293,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1d6e1c5fae93958d50ce0595ef687d8195088d21"
+      resolved-ref: "3f77202a425698dc76188933bde3738a0df4b21e"
       url: "https://github.com/kumsumit/plugin_platform_interface.git"
     source: git
     version: "2.1.6"
@@ -451,7 +451,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: d71b6b5698990c8d6b890613e49c63d49f2c6679
+      resolved-ref: "0a39fe254e9955a08cb94507f5545d74ae3f1b51"
       url: "https://github.com/kumsumit/url_launcher_android.git"
     source: git
     version: "6.1.0"
@@ -460,7 +460,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: c9dff7ec529d8ef5d62089b87c57bcbf07dae1eb
+      resolved-ref: f87fbb62b67ab95c329ed9b18f199a618ae8193b
       url: "https://github.com/kumsumit/url_launcher_ios.git"
     source: git
     version: "6.1.5"
@@ -469,7 +469,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: f0a9298d9a676e0348c5347ea4df9fc64a4a6f68
+      resolved-ref: "13dfea262ea827b73e1492022da6e3e7fa4f68d7"
       url: "https://github.com/kumsumit/url_launcher_linux.git"
     source: git
     version: "3.0.6"
@@ -478,7 +478,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "15c1cc3f8eaa9bb4f1aed4223e9d7a238849cfcd"
+      resolved-ref: c0db03ee0d15fd8c1ac91d8ce2e319c64f27a9b5
       url: "https://github.com/kumsumit/url_launcher_macos.git"
     source: git
     version: "3.0.7"
@@ -487,7 +487,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b70f1c90590f8e2bf44eb84872282d0bfd74bdf9
+      resolved-ref: ea6e4db740d406561dd53b5acf7181406572a35d
       url: "https://github.com/kumsumit/url_launcher_platform_interface.git"
     source: git
     version: "2.1.5"
@@ -496,7 +496,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: bb09cbfad44434d01ddebbbe750ed5c058e01472
+      resolved-ref: "3328ddc72fb3680014e3737239f9d1b9e8d67b76"
       url: "https://github.com/kumsumit/url_launcher_web.git"
     source: git
     version: "2.0.20"
@@ -505,7 +505,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "9c4b56ad933d916424d447d0ee177c027b65a62e"
+      resolved-ref: "083d2dbce9481a353db8e9db9ec14594c09b8493"
       url: "https://github.com/kumsumit/url_launcher_windows.git"
     source: git
     version: "3.0.8"
