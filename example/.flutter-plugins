@@ -1,9 +1,9 @@
 # This is a generated file; do not edit or check into version control.
 integration_test=/home/sumit/softwares/flutter/packages/integration_test/
 url_launcher=/home/sumit/StudioProjects/packages/packages/url_launcher/url_launcher/
-url_launcher_android=/home/sumit/.pub-cache/git/url_launcher_android-0a39fe254e9955a08cb94507f5545d74ae3f1b51/
-url_launcher_ios=/home/sumit/.pub-cache/git/url_launcher_ios-f87fbb62b67ab95c329ed9b18f199a618ae8193b/
-url_launcher_linux=/home/sumit/.pub-cache/git/url_launcher_linux-13dfea262ea827b73e1492022da6e3e7fa4f68d7/
-url_launcher_macos=/home/sumit/.pub-cache/git/url_launcher_macos-c0db03ee0d15fd8c1ac91d8ce2e319c64f27a9b5/
-url_launcher_web=/home/sumit/.pub-cache/git/url_launcher_web-3328ddc72fb3680014e3737239f9d1b9e8d67b76/
-url_launcher_windows=/home/sumit/.pub-cache/git/url_launcher_windows-083d2dbce9481a353db8e9db9ec14594c09b8493/
+url_launcher_android=/home/sumit/.pub-cache/git/url_launcher_android-35035b4188fb6524fd3f673f1fe71c7dcff22c14/
+url_launcher_ios=/home/sumit/.pub-cache/git/url_launcher_ios-901f11a2bd98bc8c7418aed8e41a7f2a5db40ef5/
+url_launcher_linux=/home/sumit/.pub-cache/git/url_launcher_linux-f338722453649bc2ae59ef37c29cd5b2f1f4ae46/
+url_launcher_macos=/home/sumit/.pub-cache/git/url_launcher_macos-6045be052bbe230f17848e5e33a029b6d68d7507/
+url_launcher_web=/home/sumit/.pub-cache/git/url_launcher_web-a120bb7a45e8f7346da1c909206851a67106e7b6/
+url_launcher_windows=/home/sumit/.pub-cache/git/url_launcher_windows-2faf50eb7545f3a6056cc0699c2f0471b0912ac9/
